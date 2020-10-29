@@ -9,7 +9,7 @@ We solve this by creating a license that let's people and organizations use this
 
 # THE LICENSE
 
-This software is intended to be used on web applications or applications that are designed to be rendered using HTML, CSS, and JS technologies, including some desktop applications.
+This software is intended to be used as a library on other applications.
 
 You need a license to use this software as part of your application (YOUR APPLICATION) with the following exceptions:
 
