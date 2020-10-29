@@ -3,7 +3,7 @@ Copyright 2020 Uprtcl Exective DAO, Inc
 
 # PREAMBLE
 
-The idea behind this license is simple: successfull and commercially viable applications should trickle down their benefits to the companies and developers of the software components they are built upon. At the same time, software licenses should not stiffle innovation and create artificial barries in the path of hacekrs, startups and developers who are just getting started.
+The idea behind this license is simple: successfull and commercially viable applications should trickle down their benefits to the companies and developers of the software components they are built upon. At the same time, software licenses should not stiffle innovation and create artificial barries in the path of hackers, startups, students and developers who are just getting started.
 
 We solve this by creating a license that let's people and organizations use this software for commercial applications and pay for it in the future, only if their endeavor is successful. The license uses the public Ethereum blockchain to streamline the license registration and payment process that completely reduces bureacracy.
 
