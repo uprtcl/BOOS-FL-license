@@ -24,7 +24,7 @@ You can install and test this software as part of YOUR APPLICATION for a period 
 
 To continue using this software, you MUST register YOUR APPLICATION by calling the method `register(bytes32 packageHash,bytes32 organizationHash)` of the `licensing.uprtcl.eth` smart contract, where `packageHash` should be the sha256 hash of the name of the node package of YOUR APPLICATION, and organization should be the sha256 hash of the name of the legal entity with copyrights on YOUR APPLICATION.
 
-Once registered you can use this software without any upfront payment. However, by registering you are commit to paying for the license as soon as you decide to do it and within a period of 4 years. Remeber, if you register, you are commiting to pay for the license.
+Once registered you can use this software without any upfront payment. However, by registering you are commit to paying for the license as soon as you decide to do it and within a period of 4 years.
 
 The price, in DAI, for buying a perpetual license of this software can be calculated by calling the method `getPrice(bytes32 packageHash, bytes32 organizationHash)` of the smart contract. This price will change in time, starting at a minimum value on the date you registered the application and reaching a maximum value after 4 years.
 
@@ -41,6 +41,7 @@ Some clarifications
   - If your organization sells the copyrights of YOUR APPLICATION to a third party, that third party will still have to pay for this license without any modifications to the registration process.
   - If your organization is disolved or stop existing, you can safely omit the payment of this license.
   - If you were bootstrapping and never ended up registering a company or becoming a startup, you can safely omit the payment of this license.
+  - Renaming the npm pacakge does not changes this conditions as the license is associated with an application code base and it's natural evolition and not with its package or organization name.
 
 - If after 4 years YOUR APPLICATION is no longer under active development, you can safely omit the payment of this license.
 
