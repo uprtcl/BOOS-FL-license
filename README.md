@@ -18,7 +18,7 @@ You need a license to use this software as part of your application (YOUR APPLIC
 
 If YOUR APPLICATION is licensed under an MIT, APACHE, or other similar permissive FOSS license, you cannot use this software.
 
-If YOUR APPLICATION has reserved copyrights or is intended for commercial use, you then have to buy a license from us in order to use this software as part of YOUR APPLICATION. The payment of this license can be postponed for a maximum period of 4 years and the price to pay will depend on who long you decide to postpone it.
+If YOUR APPLICATION has reserved copyrights or is intended for commercial use, you then have to buy a license from us in order to use this software as part of YOUR APPLICATION. The payment of this license can be postponed for a maximum period of 4 years and the price to pay will depend on how long you decide to postpone it.
 
 You can install and test this software as part of YOUR APPLICATION for a period of 1 month, after which time you must register on the smart contract if you want to continue using the software.
 
