@@ -1,4 +1,4 @@
-# BOOS-FL-license
+# Bootstrapping and Open-Source Friendly (BOOS-FL) license
 
 Copyright 2020 Uprtcl Exective DAO, Inc
 
