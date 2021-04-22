@@ -19,7 +19,7 @@ You need a license to use this software as part of your application (YOUR APPLIC
 1. YOUR APPLICATION code is licensed using a FOSS copyleft license like GPL or AGPL.
 2. YOUR APPLICATION is not for commercial use.
 
-If YOUR APPLICATION is licensed under an MIT, APACHE, or other similar permissive FOSS license, you cannot use this software.
+If YOUR APPLICATION is licensed under an MIT, APACHE, or other similar permissive FOSS license, you cannot use this software withput modifying your license.
 
 If YOUR APPLICATION has reserved copyrights and is intended for commercial use, you then have to buy a license from us in order to use this software as part of YOUR APPLICATION. The payment of this license can be postponed for a maximum period of 4 years and the price to pay will depend on how long you decide to postpone it.
 
